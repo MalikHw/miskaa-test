@@ -1,6 +1,6 @@
 #include <Geode/Geode.hpp>
 #include <Geode/modify/PlayLayer.hpp>
-#include <includes/notif/includes/notif.hpp>
+#include <includes/notif.hpp>
 
 using namespace geode::prelude;
 
