@@ -1,5 +1,8 @@
 {
     "geode": "5.7.0",
+    "resources": {
+        "sprites": ["resources/test.png"]
+    },
     "gd": {
         "win": "2.2081",
         "mac": "2.2081",
